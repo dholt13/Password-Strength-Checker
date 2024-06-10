@@ -2,7 +2,7 @@
 
 ![pwdchecker](https://github.com/dholt13/Password-Strength-Checker/assets/69023233/057bccef-1a05-469c-adc3-22b873b8d186)
 
-I designed a password strenght checker program. This program gets the users password and goes through the process to check if the password strength is Strong, Moderate or Weak.
+I designed a password strength checker program. This program gets the users password and goes through the process to check if the password strength is Strong, Moderate or Weak.
 
 To be considered to have a strong password you have to follow the below criteria: 
   1. It must contains one lowercase character.
